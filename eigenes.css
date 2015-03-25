@@ -1,0 +1,91 @@
+.clear {
+    clear: both;
+}
+
+.border-top-radius {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.divheader {
+    margin: 4px auto auto auto;
+    padding: 30px 0 20px 0;
+    background-color: #ca9d88;
+    color: white;
+    width: 900px;
+}
+
+.footer {
+    margin: 4px auto 20px auto;
+    background-color: #ca9d88;
+    color: white;
+    width: 900px;
+    height: 20px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.zweitesdiv {
+    width: 900px;
+    margin: auto;
+}
+
+.divleft {
+    margin: 10px 0 0 0;
+    float: left;
+    width: 220px;
+    height: 350px;
+}
+
+.firsttext {
+    font-size: 13.5px;
+}
+
+.divmiddle {
+    float: left;
+    width: 450px;
+    height: auto;
+    margin: 10px 10px 0 0;
+}
+
+.divmiddle>img {
+    width: 450px;
+    height: auto;
+}
+
+.textstartseite {
+    font-size: 18.3px;
+    margin: -161px 0 0 0;
+}
+
+.divright {
+    margin: 10px 0 0 0;
+    float: right;
+    width: 220px;
+    height: 350px;
+}
+
+.divright>img {
+    width: 220px;
+}
+
+.bilduntenrechts {
+    margin: 36px 0 0 0;
+}
+
+.stu {
+    width: 904px;
+    margin: auto;
+    text-align: center;
+    font-size: 18.6px;
+}
+
+body {
+    background-color: #e4e4e4;
+}
+
+.shadow {
+    text-shadow: 0.1em 0.1em #333333;
+    font-family: Decorative;
+    font-size: 50px;
+}
